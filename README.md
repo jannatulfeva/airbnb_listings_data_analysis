@@ -90,7 +90,12 @@ pip install pandas numpy matplotlib seaborn
 Open and run the notebook
 Run the notebook: airbnb_listings_data_analysis.ipynb
 
+# Author & Contact
+Jannatul Ferdaus Eva
 
+Data Analyst
+
+📧 Email: jannateva76@gmail.com
 
 
 
